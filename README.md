@@ -3,8 +3,7 @@
 > App de previsão do tempo por cidade, consumindo a API OpenWeatherMap para exibir temperatura, sensação térmica, umidade, vento e pressão em tempo real.
 
 ## 🖼️ Prévia
-
-<img width="1230" height="717" alt="image" src="https://github.com/user-attachments/assets/6b3645c1-3e6c-4e24-9847-6c6b8d2f32f0" />
+<img width="1223" height="695" alt="image" src="https://github.com/user-attachments/assets/9cbc06a8-6e64-4112-af51-3584f366492d" />
 
 ## 🚀 Funcionalidades
 
