@@ -1,0 +1,1 @@
+const apiKey = "COLE_SUA_CHAVE_AQUI"; // Substitua pelo valor da sua chave da API do OpenWeatherMap
