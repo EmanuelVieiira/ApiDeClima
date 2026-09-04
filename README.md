@@ -29,8 +29,8 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/EmanuelVieiira/APi-de-clima.git
-   cd APi-de-clima
+   git clone https://github.com/EmanuelVieiira/ApiDeClima.git
+   cd ApiDeClima
    ```
 2. Crie sua própria chave de API gratuita em [openweathermap.org/api](https://openweathermap.org/api).
 3. Copie `js/config.example.js` para um novo arquivo `js/config.js` e cole sua chave:
